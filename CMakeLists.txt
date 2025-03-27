@@ -2,6 +2,7 @@ cmake_minimum_required(VERSION 3.28)
 project(RubiksCube)
 
 set(CMAKE_CXX_STANDARD 17)
+add_executable(RubiksCubeSolver main.cpp)
 
 add_executable(RubiksCube main.cpp
         Model/RubiksCube.cpp
@@ -9,7 +10,6 @@ add_executable(RubiksCube main.cpp
         Model/RubiksCube3dArray.cpp
         Model/RubiksCube1dArray.cpp
         Model/RubiksCubeBitboard.cpp
-        Model/PatternDatabase/PatternDatabase.h
         Solver/BFSSolver.h
         Solver/DFSSolver.h
         Solver/IDAstarSolver.h
