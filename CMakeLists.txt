@@ -18,4 +18,6 @@ add_executable(RubiksCubeSolver main.cpp
         PatternDatabasas/PatternDatabase.cpp
         PatternDatabasas/PatternDatabase.h
         PatternDatabasas/PermutationIndexer.h
+        PatternDatabasas/math.cpp
+        PatternDatabasas/math.h
 )
