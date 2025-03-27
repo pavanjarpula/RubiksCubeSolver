@@ -9,15 +9,15 @@ add_executable(RubiksCubeSolver main.cpp
         Model/RubiksCube1dArray.cpp
         Model/RubiksCube3dArray.cpp
         Model/RubiksCubeBitboard.cpp
-        PatternDatabasas/CornerDBmaker.cpp
-        PatternDatabasas/CornerDBmaker.h
-        PatternDatabasas/CornerPatternDatabase.cpp
-        PatternDatabasas/CornerPatternDatabase.h
-        PatternDatabasas/NibbleArray.cpp
-        PatternDatabasas/NibbleArray.h
-        PatternDatabasas/PatternDatabase.cpp
-        PatternDatabasas/PatternDatabase.h
-        PatternDatabasas/PermutationIndexer.h
-        PatternDatabasas/math.cpp
-        PatternDatabasas/math.h
+        PatternDatabases/CornerDBmaker.cpp
+        PatternDatabases/CornerDBmaker.h
+        PatternDatabases/CornerPatternDatabase.cpp
+        PatternDatabases/CornerPatternDatabase.h
+        PatternDatabases/NibbleArray.cpp
+        PatternDatabases/NibbleArray.h
+        PatternDatabases/PatternDatabase.cpp
+        PatternDatabases/PatternDatabase.h
+        PatternDatabases/PermutationIndexer.h
+        PatternDatabases/math.cpp
+        PatternDatabases/math.h
 )
