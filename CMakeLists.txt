@@ -17,4 +17,5 @@ add_executable(RubiksCubeSolver main.cpp
         PatternDatabasas/NibbleArray.h
         PatternDatabasas/PatternDatabase.cpp
         PatternDatabasas/PatternDatabase.h
+        PatternDatabasas/PermutationIndexer.h
 )
