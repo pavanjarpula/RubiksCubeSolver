@@ -282,7 +282,7 @@ int main() {
  //     idaStarSolver.rubiksCube.print();
  //     for (auto move: moves) cout << cube.getMove(move) << " ";
  //     cout << "\n";
- //    cout<<"Hello world";
+ //
 
     return 0;
 }
