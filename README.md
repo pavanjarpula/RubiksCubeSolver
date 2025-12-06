@@ -240,11 +240,7 @@ Contributions are welcome! Please follow these guidelines:
 ---
 
 ## 📞 Support
-
-- **Issues:** [GitHub Issues](https://github.com/RAJASUBBU1809/RUBICS_CUBE_SOLVER/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/RAJASUBBU1809/RUBICS_CUBE_SOLVER/discussions)
-- **Author:** [RAJASUBBU1809](https://github.com/RAJASUBBU1809)
-
+- **Author:** [pavanjarpula](https://github.com/pavanjarpula)
 ---
 
 **🧩 "Every scramble has a solution within 20 moves. This solver finds it."**
